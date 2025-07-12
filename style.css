@@ -1,0 +1,143 @@
+.main-body{
+    width: 400px;
+    height: 528px;
+    background-color: rgba(32,32,32,255);
+    border-width: 7px;
+    border-radius: 10px;
+    box-shadow: 7px 4px 20px 0px gray, 0px 0px 6px 3px gray;
+    margin-top: 110px;
+    margin-left: 550px;
+}
+ 
+
+
+
+
+
+
+.heading{
+    width: 138px;
+    height: 36px;
+    background-color: #202020;
+    margin-left: 124px;
+    float: left;
+    margin-top: 8px;
+}
+
+
+.heading-text{
+    font-size: 19px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(239, 242, 245);
+    margin-top: 7px;
+    margin-left: 5px;
+}
+
+.div-txt{
+    background-color: #202020;
+    margin-top: 33px;
+    margin-left: 5px;
+    float: left;
+    width: 391px;
+    height: 40px;
+}
+
+
+#screen{
+
+    border-radius: 5px;
+    border-width: 0px;
+    width: 387px;
+    height: 40px;
+    background-color: rgb(255, 255, 255);
+    font-family:Arial, sans-serif;
+    color: rgb(5, 5, 8);
+    text-align: right;
+    font-size: 20px;
+    pointer-events: none;
+}
+
+
+.txt::placeholder{
+    color: #5a5959;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    word-spacing: 1px;
+    letter-spacing: 1px;
+    float: right;
+    
+}
+.reload{
+
+    border-width: 0;
+    width: 32px;
+    float: right;
+    background-color: rgba(32,32,32,255);
+    color: white;
+    margin-top: 5px;
+    margin-bottom: 0px;
+    margin-right: 7px;
+    height: 29px;
+    font-size: 24px;
+}
+
+.section-1{
+
+    width: 395px;
+    height: 50px;
+    background-color: #202020;
+    float: left;
+    margin-top: 11px;
+    margin-left: 2px;
+}
+
+ 
+
+.res{
+    border-radius: 5px;
+    border-width: 0px;
+    width: 387px;
+    height: 45px;
+    background-color: rgb(255, 255, 255);
+    font-family:Arial, Helvetica, sans-serif;
+    color: rgb(5, 5, 8);
+    text-align: right;
+    font-size: 20px;
+    margin-left: 3px;
+    pointer-events: none;
+}
+
+
+
+.btn-section{
+
+    width: 353px;
+    height: 50px;
+    float: left;
+    margin-top: 22px;
+    margin-left: 23px;
+
+}
+
+
+.btn{
+
+    background-color: #ffffff;
+    width: 83px;
+    height: 60px;
+    color: #000000;
+    border-width: 0.01em;
+    border-radius: 5px;
+    margin-top: -7px;
+    float: left;
+    margin-left: 4px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+
+
+
+
+
+
